@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Arrays;
+//Two sum question.
 
 class DsaQ1 {
     public int[] twoSum(int[] nums, int target) {
