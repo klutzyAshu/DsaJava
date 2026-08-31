@@ -136,7 +136,7 @@ The main goals of this repository are to:
 This repository is continuously being updated as I learn and practice new concepts.
 
 * [x] Java fundamentals
-* [x] Basic DSA problems
+* [ ] Basic DSA problems
 * [ ] Arrays & Strings
 * [ ] Searching & Sorting
 * [ ] Linked Lists
