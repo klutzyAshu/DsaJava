@@ -100,23 +100,8 @@ git clone https://github.com/klutzyAshu/DsaJava.git
 
 ```bash
 cd DsaJava
+
 ```
-
-### 3. Compile a Java Program
-
-```bash
-javac DsaQ1.java
-```
-
-### 4. Run the Program
-
-```bash
-java DsaQ1
-```
-
-You can replace `DsaQ1.java` and `DsaQ1` with the name of any Java file you want to execute.
-
----
 
 ## 🎯 Goals
 
