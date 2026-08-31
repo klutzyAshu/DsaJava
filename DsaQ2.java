@@ -1,6 +1,5 @@
 import java.util.Arrays;
 class DsaQ2{
-    //Longest common prefix.
     public String longestCommonPrefix(String []strs){
         if(strs == null || strs.length == 0) return"";
         Arrays.sort(strs);
