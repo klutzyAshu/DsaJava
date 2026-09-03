@@ -17,3 +17,4 @@ out/
 .project
 #Github files 
 .gitignore
+*.json
