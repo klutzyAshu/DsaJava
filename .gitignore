@@ -15,3 +15,5 @@ out/
 .settings/
 .classpath
 .project
+#Github files 
+.gitignore
