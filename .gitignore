@@ -18,3 +18,5 @@ out/
 #Github files 
 .gitignore
 *.json
+#Study related files inside the repo.
+*.docx
