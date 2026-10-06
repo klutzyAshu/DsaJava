@@ -1,0 +1,98 @@
+1. Absolute Java basics
+Print "Hello World"
+Read input using Scanner
+Add two numbers
+Find the area of a circle
+Convert Celsius ↔ Fahrenheit
+Check whether a number is positive, negative, or zero
+Find the larger of two numbers
+Find the largest of three numbers
+Check even/odd
+Check whether a year is a leap year
+2. Loops and number problems
+Print numbers 1 → N
+Print N → 1
+Sum 1 → N
+Sum of even numbers
+Sum of odd numbers
+Multiplication table
+Count digits
+Reverse a number
+Check palindrome number
+Find sum of digits
+Find product of digits
+Find first and last digit
+Calculate power
+Find factorial
+Generate Fibonacci series
+Check prime number
+Print primes in a range
+Find GCD/HCF
+Find LCM
+Check Armstrong number
+3. Pattern problems
+Square pattern
+Rectangle pattern
+Right triangle
+Inverted triangle
+Pyramid
+Inverted pyramid
+Number triangle
+Floyd's triangle
+Pascal's triangle
+Diamond pattern
+4. Arrays
+Read and print an array
+Find array sum
+Find maximum
+Find minimum
+Calculate average
+Count even/odd elements
+Reverse an array
+Copy an array
+Search an element
+Find second-largest element
+Find second-smallest element
+Count frequency
+Remove duplicates
+Check whether array is sorted
+Merge two arrays
+5. Basic sorting/searching
+Linear search
+Binary search
+Bubble sort
+Selection sort
+Insertion sort
+6. Strings
+Reverse a string
+Check palindrome
+Count vowels/consonants
+Count words
+Count characters
+Find character frequency
+Remove spaces
+Remove duplicate characters
+Check anagram
+Find first non-repeating character
+7. Methods + recursion
+Calculator using methods
+Prime-checking method
+Factorial method
+Fibonacci method
+Recursive factorial
+Recursive Fibonacci
+Recursive sum
+Recursive reverse
+Recursive binary search
+8. OOP basics
+Create a class and object
+Constructor
+Getters/setters
+Method overloading
+Inheritance
+Method overriding
+Abstract class
+Interface
+Encapsulation
+Small Bank Account program
+Small Student Management program
